@@ -7,7 +7,7 @@ I'm a Computer Science student at the Technical University of Cluj-Napoca with a
 - 👯 **I'm looking to collaborate on** hackathons, CTF, student projects, or open-source work — anything involving an interesting problem or a new technology.
 - 🤔 **I'm looking for help with** discovering cool corners of tech! If you love what you do (backend, embedded, mobile...), I'd love to hear about it.
 - 💬 **Ask me about** C/C++, Java, Functional Programming, OOP.
-- 📫 **How to reach me:** bocaalinal@gmail.com or [LinkedIn](https://www.linkedin.com/in/alina-maria-boca)
+- 📫 **How to reach me:** bocaalinal@gmail.com or [LinkedIn]([https://www.linkedin.com/in/alina-maria-boca](https://www.linkedin.com/in/alina-maria-boca-6aa3631b1/))
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** Outside of coding I crochet, bake, and deep-clean things 🧁🧶
 
